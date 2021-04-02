@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:intl/intl.dart';
-
 import 'adaptative_button.dart';
 import 'adaptative_datePicker.dart';
 import 'adaptative_textField.dart';
